@@ -11,6 +11,6 @@ import sys
 if len(sys.argv) == 2 and int(sys.argv[1]) > 0:
     deck_size = int(sys.argv[1])
     N = perfect_deck.numRounds(deck_size)
-    print("Deck size {} == {} Rounds".format(deck_size, N))
+    print("{} cards --> {} Rounds".format(deck_size, N))
 else:
     print("Correct Usage : \n  python run.py [size of deck > 0]")
