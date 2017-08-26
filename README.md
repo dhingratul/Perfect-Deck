@@ -10,4 +10,4 @@ Write a program to determine how many rounds it will take to put a deck back int
 
 ## Usage
 Run the code as follows:
-`python run.py [size of deck > 0]
+`python run.py [size of deck > 0]`
