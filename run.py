@@ -5,6 +5,7 @@ Created on Sat Aug 26 13:42:15 2017
 
 @author: dhingratul
 """
+from __future__ import print_function
 import perfect_deck
 import sys
 
