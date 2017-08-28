@@ -9,5 +9,4 @@ You are given a deck containing N cards. While holding the deck:
 Write a program to determine how many rounds it will take to put a deck back into the original order. The program should take the number of cards in the deck as a command line argument and write the result to stdout.
 
 ## Usage
-
 `python run.py [size of deck > 0]`
